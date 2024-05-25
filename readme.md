@@ -2,7 +2,7 @@
 <h3 align="center">A passion at full stack developer from India</h3>
 
 <h3 align="left">Connect with me:  nasir</h3>
-<p align="left">
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
