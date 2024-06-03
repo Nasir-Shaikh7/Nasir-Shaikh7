@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm nasir shaikh</h1>
 <h3 align="center">A passion at fulsl sztack develsoper from India</h3>
 d
-<h3 align="left">Connect with me: na sir</h3>
+<h3 align="left">Connect with me: nasir</h3>
 <p align="left"> 
 </p>
 
